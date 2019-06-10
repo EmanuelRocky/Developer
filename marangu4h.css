@@ -1,0 +1,56 @@
+*{text-decoration:none;
+background-color:light green;}
+
+#table tr td {font-family:200px;
+        text-align:center;
+        font-size:20px;
+
+
+        }
+
+#table tr td a {color:white;
+                 }
+
+
+#table  {
+                 background-color:rgb(100,190,100);}
+
+#table tr td:hover{ background-color:green;}
+
+#log1{margin-top:-70px;
+       padding-left:30px;}
+
+
+#log2{float:right;
+       margin-top:-70px;
+       padding-right:30px;}
+
+
+#ORG{float:right;
+     margin-top:-50px;
+       margin-right:140px;
+     color:magenta;
+     font-family:900px;}
+
+#ORG:hover {background-color:green;}
+
+.background  {background-color:green;
+               height:50px;
+               width:100%;
+               padding-left:1200px;
+padding-top:10px;
+color:magenta;
+font-family:900px;}
+
+
+#marangu{float: left;
+          margin-top: -50px;
+          margin-left: 140px;
+          color: magenta;
+          font-family: 900px;
+        }
+.footer{ background-color: #dddddd;
+height:100; }
+
+
+.footer>footer1 {padding-top: 30px;}
